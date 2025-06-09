@@ -1,0 +1,13 @@
+## namespace information
+organization: "OOO Slaughterhouse"
+maintainer: "Supper DevOps"
+namespace: "slgh"
+terraform: "yes"
+
+## account settings
+vsphere_server: sphere.example.ru
+account: vsphere.example.ru
+
+## backend settings
+gitlab_base_address: https://gitlab..example.ru/api/v4/projects
+gitlab_backend_project_id: 123
