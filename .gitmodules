@@ -1,0 +1,3 @@
+[submodule "modules/terraform-null-label"]
+	path = modules/terraform-null-label
+	url = git@github.com:cloudposse/terraform-null-label.git
